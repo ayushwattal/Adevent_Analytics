@@ -7,4 +7,6 @@
 
 ![AdEvent_analytics](https://github.com/ayushwattal/Adevent_Analytics/assets/81599198/593aa972-5b07-4fbd-8694-c6a539d018d3)
 
+## Sample Dashboard
+<img width="452" alt="Dashboard" src="https://github.com/ayushwattal/Adevent_Analytics/assets/81599198/a1478114-71ea-44b1-9143-2835ad7fca8f">
 
